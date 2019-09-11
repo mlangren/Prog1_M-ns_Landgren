@@ -1,5 +1,5 @@
 public class Test1 {
-hej
+hej //gay
 	
 	public static void main(String [] arg){
 
